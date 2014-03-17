@@ -1,4 +1,4 @@
-package name.loveni.oj.leetcode;
+package name.loveni.oj.leetcode.binary_search;
 
 public class SearchInRotatedSortedArray {
 
